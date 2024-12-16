@@ -18,20 +18,7 @@ Aplikasi ini adalah proyek berbasis Python yang memungkinkan pengguna untuk mene
 - Menerapkan transformasi secara langsung pada frame video.
 - Menampilkan histogram untuk distribusi intensitas gambar secara real-time.
 
-## Instalasi
-
-1. Clone repositori ini:
-   ```bash
-   git clone https://github.com/username/nama-repositori.git
-   cd nama-repositori
-   ```
-
-2. Install dependensi:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Jalankan aplikasi:
+## Jalankan aplikasi:
    ```bash
    streamlit run app.py
    ```
